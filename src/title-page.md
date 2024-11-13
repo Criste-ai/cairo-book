@@ -1,7 +1,9 @@
-# The Cairo Book
+The Cairo Book
 
-By the Cairo Community and its [contributors](https://github.com/cairo-book/cairo-book.github.io). Special thanks to [StarkWare](https://starkware.co/) through [OnlyDust](https://www.onlydust.xyz/), and [Voyager](https://voyager.online/) for supporting the creation of this book.
+Crafted collaboratively by the Cairo Community and its contributors, The Cairo Book is a shared journey into the world of Cairo programming. We extend special thanks to StarkWare for their vision and support, provided through OnlyDust, and to Voyager for their partnership in bringing this resource to life.
 
-This version of the text assumes you’re using the [Cairo Compiler](https://github.com/starkware-libs/cairo) [version 2.8.3](https://github.com/starkware-libs/cairo/releases) and [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/index.html) [version 0.31.0](https://github.com/foundry-rs/starknet-foundry/releases). See the [Installation](ch01-01-installation.md) section of Chapter {{#chap getting-started}} to install or update Cairo and Starknet Foundry.
+This edition is tailored to Cairo Compiler version 2.8.3 and Starknet Foundry version 0.31.0, ensuring you’re up-to-date with the latest features and best practices. To get set up or update your environment, head to the Installation section of Chapter {{#chap getting-started}}.
 
-If you want to play around with Cairo code and see how it compiles into Sierra (Intermediate Representation) and CASM (Cairo Assembly), you can use [cairovm.codes](https://cairovm.codes/) playground.
+For hands-on learning, explore cairovm.codes, an interactive playground where you can experiment with Cairo code. See how your code translates into Sierra (an Intermediate Representation) and CASM (Cairo Assembly), giving you insight into the compilation process and what’s happening under the hood.
+
+By engaging with The Cairo Book and these tools, you’re joining a community at the forefront of Cairo programming. Dive in, experiment, and connect with others who are just as passionate about pushing the boundaries of what Cairo can achieve.
